@@ -23,7 +23,7 @@ veggy <- cabbages
 
 $H_0$: there is no difference in the Vitamin C contentof cabbages cultivated with methods 39 and 52.
 
-$H_A$: there is a difference in the vitamin C content based on the cultivation method 
+$H_A$: there is a difference in the vitamin C content based on the cultivation method .
 
 # Methods
 
